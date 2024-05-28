@@ -5,7 +5,7 @@ oneLine = fp.readline()
 
 while oneLine:
 
-    print
+    print("test commit")
 
     oneLine = fp.readline()
 
